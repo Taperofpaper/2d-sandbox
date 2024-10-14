@@ -1,2 +1,8 @@
-# 2d-sandbox
-a 2D sandbox game created in Java from vanZeben's 2D game engine tutorial
+# 2D Sandbox Game Mod
+
+A mod for vanZeben's 2D Java game, from his game engine tutorial.
+
+# Features:
+- Expanded selection of blocks
+- Ability to place items (WIP)
+- Different Armour (WIP)
